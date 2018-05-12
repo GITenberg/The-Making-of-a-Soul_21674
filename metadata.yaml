@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24851'
     url: http://www.gutenberg.org/2009/agents/24851
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21674#The-Making-of-a-Soul
 gutenberg_issued: '2007-06-04'
 gutenberg_type: Text
 identifiers:
